@@ -1,8 +1,8 @@
 # Hello-World
 Venturing Into Uncharted Territory
 
-I am 31 years old and ready to take the next step in advancing my career.  
-It is now time for me to go out and take some risks in life. 
+I am 32 years old and ready to take the next step in advancing my career. 
+UCLA Alumna who is ready to step into the realm of coding with a focus on machine learning. 
 
 
 -cCervantes
